@@ -1,6 +1,5 @@
 ![Header Image](header.jpg) 
 
-# Language Models and Structured Knowledge in AI
 
 Official Repo of the "Language Models and Structured Knowledge in AI" Talk at the [4th Inria-DFKI European Summer School on AI (IDESSAI 2024)](https://idessai.eu/tracka-largeaimodels/).
 
