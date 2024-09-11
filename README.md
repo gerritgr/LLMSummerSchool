@@ -19,6 +19,8 @@ Official Repo of the "Language Models and Structured Knowledge in AI" Talk at th
 - 🤖 PART III: LLM-Derived Cypher Queries (Text2Cypher RAG)
 - 🧠 PART IV: LLM-Derived Knowledge Graphs (GraphRAG)
 
+You can give anonymous feedback at [tellonym.me/llmsummerschool](https://tellonym.me/llmsummerschool)
+
 ## References
 
 ### Surveys
