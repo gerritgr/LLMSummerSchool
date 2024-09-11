@@ -7,6 +7,18 @@ Official Repo of the "Language Models and Structured Knowledge in AI" Talk at th
 
 [<img src="download_slides.jpg" width="300"/>](Talk.pdf) &nbsp; [<img src="gotocolab.jpg" width="300"/>](https://colab.research.google.com/drive/1BVqziqvtqJo2kAq4zYE5mmUgPJim8tuS?usp=sharing#scrollTo=NyXaI0w3lnse)
 
+**Theoretical Part:**
+- Overview of integrating LLMs with structured knowledge (graphs)
+- Knowledge graphs as both input and output for LLMs
+- Utilizing knowledge graphs during training and inference phases
+- Enhancing knowledge graphs with LLMs and improving LLMs through knowledge graphs
+
+**Hands-on Part:**
+- Retrieval-Augmented Generation (RAG) system using ChromaDB
+- GraphRAG implementation with Neo4j and HuggingFace
+- Why GraphRAG outperforms vanilla RAG
+
+
 ## References
 
 ### Surveys
