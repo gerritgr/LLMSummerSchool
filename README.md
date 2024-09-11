@@ -9,8 +9,8 @@ Official Repo of the "Language Models and Structured Knowledge in AI" Talk at th
 
 **Theoretical Part:**
 - 🦜 Overview of integrating LLMs with structured knowledge (graphs)
-- 🕸 Knowledge graphs as both input and output for LLMs
-- 🧠 Utilizing knowledge graphs during training and inference phases
+- 🧩 Knowledge graphs as both input and output for LLMs
+- 🚀 Utilizing knowledge graphs during training and inference phases
 - 🏅 Enhancing knowledge graphs with LLMs and improving LLMs through knowledge graphs
 
 **Hands-on Part:**
