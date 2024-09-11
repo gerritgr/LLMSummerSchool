@@ -5,7 +5,7 @@ Official Repo of the "Language Models and Structured Knowledge in AI" Talk at th
 
 ## Content
 
-[<img src="download_slides.jpg" width="300"/>](Talk.pdf) &nbsp; [<img src="gotocolab.jpg" width="300"/>]([Discriminator_Guided_Diffusion_for_Molecule_Generation.pdf](https://colab.research.google.com/drive/1BVqziqvtqJo2kAq4zYE5mmUgPJim8tuS?usp=sharing#scrollTo=NyXaI0w3lnse))
+[<img src="download_slides.jpg" width="300"/>](Talk.pdf) &nbsp; [<img src="gotocolab.jpg" width="300"/>](https://colab.research.google.com/drive/1BVqziqvtqJo2kAq4zYE5mmUgPJim8tuS?usp=sharing#scrollTo=NyXaI0w3lnse)
 
 ## References
 
