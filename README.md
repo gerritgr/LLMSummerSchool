@@ -37,15 +37,15 @@ You can give anonymous feedback at [tellonym.me/llmsummerschool](https://tellony
   
 ### All
 
-- [Exploring Large Language Models for Knowledge Graph Completion (Yao et al., 2024)](https://arxiv.org/abs/2306.08302)
-- [Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction (Carta et al., 2023)](https://arxiv.org/abs/2306.08302)
-- [KGLens: Towards Efficient and Effective Knowledge Probing of Large Language Models with Knowledge Graphs (Zheng et al., 2023)](https://arxiv.org/abs/2306.08302)
-- [Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning (Luo et al., 2024)](https://arxiv.org/abs/2306.08302)
-- [Graph Language Models (Plenz et al., 2024)](https://arxiv.org/abs/2306.08302)
-- [Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting (Guan et al., 2023)](https://arxiv.org/abs/2306.08302)
-- [SKILL: Structured Knowledge Infusion for Large Language Models (Moiseev, 2022)](https://arxiv.org/abs/2306.08302)
-- [Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (Baek et al., 2023)](https://arxiv.org/abs/2306.08302)
-- [From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Edge et al., 2024)](https://arxiv.org/abs/2306.08302)
+- [Exploring Large Language Models for Knowledge Graph Completion (Yao et al., 2024)](https://arxiv.org/abs/2308.13916)
+- [Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction (Carta et al., 2023)](https://arxiv.org/abs/2307.01128)
+- [KGLens: Towards Efficient and Effective Knowledge Probing of Large Language Models with Knowledge Graphs (Zheng et al., 2023)](https://arxiv.org/abs/2312.11539)
+- [Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning (Luo et al., 2024)](https://arxiv.org/abs/2310.01061)
+- [Graph Language Models (Plenz et al., 2024)](https://arxiv.org/abs/2401.07105)
+- [Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting (Guan et al., 2023)](https://arxiv.org/abs/2311.13314)
+- [SKILL: Structured Knowledge Infusion for Large Language Models (Moiseev, 2022)](https://arxiv.org/abs/2205.08184)
+- [Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (Baek et al., 2023)](https://arxiv.org/abs/2306.04136)
+- [From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Edge et al., 2024)](https://arxiv.org/abs/2404.16130)
 - [HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction (Sarmah et al., 2024)](https://arxiv.org/abs/2408.04948)
 
 
