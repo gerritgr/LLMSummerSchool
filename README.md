@@ -7,6 +7,8 @@ Official Repo of the "Language Models and Structured Knowledge in AI" Talk at th
 
 [<img src="download_slides.jpg" width="300"/>](Talk.pdf) &nbsp; [<img src="gotocolab.jpg" width="300"/>](https://colab.research.google.com/drive/1BVqziqvtqJo2kAq4zYE5mmUgPJim8tuS?usp=sharing#scrollTo=NyXaI0w3lnse)
 
+Solution notebook can be found [here](https://colab.research.google.com/drive/1VlQsSkm5-qU-HmPaac3l6IhAD2agglfL?usp=sharing). 
+
 **Theoretical Part:**
 - 🦜 Overview of integrating LLMs with structured knowledge (graphs)
 - 🧩 Knowledge graphs as both input and output for LLMs
