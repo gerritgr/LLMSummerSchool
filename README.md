@@ -32,6 +32,7 @@ You can give anonymous feedback at [tellonym.me/llmsummerschool](https://tellony
 
 ### Tutorials
 
+- [KDD'24 Tutorial - Tutorial on Graph Reasoning with LLMs (GReaL)](https://github.com/google-research/talk-like-a-graph/tree/main/tutorial)
 - [ArangoDB - LLMs With Knowledge Graph (YouTube)](https://www.youtube.com/watch?v=DkbX8O9zd_8)
 - [AI Engineer World's Fair 2024 - Talk by Emil Eifrem (highly recommended)](https://www.ai.engineer/worldsfair/2024/schedule)
 - [Neo4j Graphacademy](https://graphacademy.neo4j.com/)
